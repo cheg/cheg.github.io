@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://cheg.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Dec 2017 03:11:24 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cheg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git Submodule使用完整教程</title>
-      <link>http://example.org/git/git-submodule/</link>
+      <link>http://cheg.github.io/git/git-submodule/</link>
       <pubDate>Sat, 30 Dec 2017 03:11:24 +0800</pubDate>
       
-      <guid>http://example.org/git/git-submodule/</guid>
+      <guid>http://cheg.github.io/git/git-submodule/</guid>
       <description>&lt;p&gt;自从看了蒋鑫的《Git权威指南》之后就开始使用Git Submodule功能，团队也都熟悉了怎么使用，多个子系统（模块）都能及时更新到最新的公共资源，把使用的过程以及经验和容易遇到的问题分享给大家。&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;Git Submodule&lt;/code&gt;功能刚刚开始学习可能觉得有点怪异，所以本教程把每一步的操作的命令和结果都用代码的形式展现给大家，以便更好的理解。&lt;/p&gt;

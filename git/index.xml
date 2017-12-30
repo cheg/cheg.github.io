@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gits on CheG&#39;s Blog</title>
+    <title>Git on CheG&#39;s Blog</title>
     <link>https://cheg.github.io/git/</link>
-    <description>Recent content in Gits on CheG&#39;s Blog</description>
+    <description>Recent content in Git on CheG&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2017 03:11:24 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2017 12:44:51 +0800</lastBuildDate>
     
 	<atom:link href="https://cheg.github.io/git/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,11 @@
       <pubDate>Sat, 30 Dec 2017 03:11:24 +0800</pubDate>
       
       <guid>https://cheg.github.io/git/git-submodule/</guid>
-      <description>&lt;p&gt;自从看了蒋鑫的《Git权威指南》之后就开始使用Git Submodule功能，团队也都熟悉了怎么使用，多个子系统（模块）都能及时更新到最新的公共资源，把使用的过程以及经验和容易遇到的问题分享给大家。&lt;/p&gt;
+      <description>&lt;p&gt;本文转载自：&lt;a href=&#34;http://www.kafeitu.me/git/2012/03/27/git-submodule.html&#34;&gt;Git Submoudle使用完整教程&amp;ndash;咖啡兔&lt;/a&gt; 作者：咖啡兔，我对其排版做了修正。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;自从看了蒋鑫的《Git权威指南》之后就开始使用&lt;code&gt;Git Submodule&lt;/code&gt;功能，团队也都熟悉了怎么使用，多个子系统（模块）都能及时更新到最新的公共资源，把使用的过程以及经验和容易遇到的问题分享给大家。&lt;/p&gt;
 
 &lt;p&gt;&lt;code&gt;Git Submodule&lt;/code&gt;功能刚刚开始学习可能觉得有点怪异，所以本教程把每一步的操作的命令和结果都用代码的形式展现给大家，以便更好的理解。&lt;/p&gt;
 

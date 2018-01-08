@@ -6,10 +6,19 @@
     <description>Recent content on CheG&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2017 03:11:24 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 12:22:07 +0800</lastBuildDate>
     
 	<atom:link href="https://cheg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mysql学习笔记</title>
+      <link>https://cheg.github.io/database/mysql/</link>
+      <pubDate>Mon, 08 Jan 2018 12:22:07 +0800</pubDate>
+      
+      <guid>https://cheg.github.io/database/mysql/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Git Submodule使用完整教程</title>
@@ -17,7 +26,7 @@
       <pubDate>Sat, 30 Dec 2017 03:11:24 +0800</pubDate>
       
       <guid>https://cheg.github.io/git/git-submodule/</guid>
-      <description>&lt;p&gt;本文转载自：&lt;a href=&#34;http://www.kafeitu.me/git/2012/03/27/git-submodule.html&#34;&gt;Git Submoudle使用完整教程&amp;ndash;咖啡兔&lt;/a&gt; 作者：咖啡兔，我对其排版做了修正。&lt;/p&gt;
+      <description>&lt;p&gt;本文转载自：&lt;a href=&#34;http://www.kafeitu.me/git/2012/03/27/git-submodule.html&#34;&gt;Git Submoudle使用完整教程&lt;/a&gt; 作者：咖啡兔，我对其排版显示做了修正。&lt;/p&gt;
 
 &lt;hr /&gt;
 

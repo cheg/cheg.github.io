@@ -182,7 +182,7 @@ a.article-title,
 .article-entry .gist .gist-file .gist-meta a,
 .layout-wrap-inner .category-list a,
 .tag-cloud a {
-  color: #111;
+  color: #009688;
   text-decoration: none;
   border-bottom: 1px dotted transparent;
 }
@@ -200,6 +200,7 @@ a.article-title:hover,
 .article-entry .gist .gist-file .gist-meta a:hover,
 .layout-wrap-inner .category-list a:hover,
 .tag-cloud a:hover {
+  color: #5FB878;
   border-bottom-color: #000;
 }
 .article-entry a {
@@ -699,6 +700,7 @@ a.article-title:hover,
   text-decoration: none;
 }
 .article-toc li a.active {
+  color: #009688;
   font-weight: bold;
 }
 @media screen and (min-width: 1400px) {

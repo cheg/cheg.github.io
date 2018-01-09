@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Git Push Permission Error</title>
+      <link>https://cheg.github.io/git/git-push-permission-error/</link>
+      <pubDate>Mon, 08 Jan 2018 18:53:38 +0800</pubDate>
+      
+      <guid>https://cheg.github.io/git/git-push-permission-error/</guid>
+      <description>&lt;p&gt;mac上同时使用两个github帐号&lt;code&gt;git clone&lt;/code&gt;，结果&lt;code&gt;git push&lt;/code&gt;时遭遇push权限错误
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Git Submodule使用完整教程</title>
       <link>https://cheg.github.io/git/git-submodule/</link>
       <pubDate>Sat, 30 Dec 2017 03:11:24 +0800</pubDate>

@@ -6,17 +6,36 @@
     <description>Recent content on CheG&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jan 2018 12:22:07 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 18:53:38 +0800</lastBuildDate>
     
 	<atom:link href="https://cheg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Git Push Permission Error</title>
+      <link>https://cheg.github.io/git/git-push-permission-error/</link>
+      <pubDate>Mon, 08 Jan 2018 18:53:38 +0800</pubDate>
+      
+      <guid>https://cheg.github.io/git/git-push-permission-error/</guid>
+      <description>&lt;p&gt;mac上同时使用两个github帐号&lt;code&gt;git clone&lt;/code&gt;，结果&lt;code&gt;git push&lt;/code&gt;时遭遇push权限错误
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Mysql学习笔记</title>
-      <link>https://cheg.github.io/database/mysql/</link>
+      <link>https://cheg.github.io/database/mysql-notes/</link>
       <pubDate>Mon, 08 Jan 2018 12:22:07 +0800</pubDate>
       
-      <guid>https://cheg.github.io/database/mysql/</guid>
+      <guid>https://cheg.github.io/database/mysql-notes/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CSS设计指南笔记</title>
+      <link>https://cheg.github.io/css/css-designer-guide/</link>
+      <pubDate>Thu, 04 Jan 2018 15:57:10 +0800</pubDate>
+      
+      <guid>https://cheg.github.io/css/css-designer-guide/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
